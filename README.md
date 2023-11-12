@@ -1,2 +1,2 @@
-# a-b-c--1
+# a³+b³=c³-1
 Google Colab
